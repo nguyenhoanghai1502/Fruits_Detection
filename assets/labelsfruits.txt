@@ -1,0 +1,10 @@
+0 oranges
+1 bananas
+2 apples
+3 avocados
+4 grapes
+5 guava
+6 limes
+7 mangos
+8 pinapples
+9 watermelons
